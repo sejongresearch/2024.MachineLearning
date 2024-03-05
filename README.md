@@ -11,8 +11,8 @@
 | 주차 | 강의 내용 | 강의 노트 | 강의 날짜 |  강의 영상 | 주차별 과제 | 비고 | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|  
 | 1 | 교과목 소개  |  | 2023.03.05 |  |  |  |
-| 1 | 인공지능 개론 | - | 2023.03.07 | [Youtube](https://youtu.be/PNs8j_HTn38) |  |  |
-| 1 | 인공지능 활용 | - | 2023.03.07 | [Youtube](https://youtu.be/Y4y8xE99gH4) |  |  |
+| 1 | 인공지능 개론 |  | 2023.03.07 | [Youtube](https://youtu.be/PNs8j_HTn38) |  |  |
+| 1 | 인공지능 활용 |  | 2023.03.07 | [Youtube](https://youtu.be/Y4y8xE99gH4) |  |  |
 | * | 과제 | [과제설명서](https://github.com/sejongresearch/2023.MachineLearning/blob/main/HW/1%EC%A3%BC%EC%B0%A8/w1p1.md) | 2022.03.05 |  | 실습과제(1) 마감 (3/14) |  |
 
 
