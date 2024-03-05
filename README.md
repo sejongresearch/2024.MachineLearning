@@ -13,7 +13,7 @@
 | 1 | 교과목 소개  |  | 2023.03.05 |  |  |  |
 | 1 | 인공지능 개론 |  | 2023.03.07 | [Youtube](https://youtu.be/PNs8j_HTn38) |  |  |
 | 1 | 인공지능 활용 |  | 2023.03.07 | [Youtube](https://youtu.be/Y4y8xE99gH4) |  |  |
-| * | 과제 | [과제설명서] | 2022.03.05 |  | 실습과제(1) 마감 (3/14) |  |
+| * | 과제 | [과제설명서](https://github.com/sejongresearch/2024.MachineLearning/blob/main/HW/w1p1.md) | 2022.03.05 |  | 마감 (3/18 23시 59분) |  |
 
 
 ## 중간고사/기말고사 일정
