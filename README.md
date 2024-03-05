@@ -30,11 +30,6 @@
 - 파이썬을 이용한 통계적 머신러닝 (박유성 지음)
 
 
-## 자기주도학습
-- 도커가 궁금합니다!
-  - 생활코딩 도커 입문편으로 시작해 볼까요? 
-    - https://www.youtube.com/watch?v=Ps8HDIAyPD0&list=PLuHgQVnccGMDeMJsGq2O-55Ymtx0IdKWf
-
 
 ## 참고자료
 - (1주차) 네이버 키넥트 재단 소프트웨어야놀자 강의
