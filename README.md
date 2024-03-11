@@ -14,7 +14,7 @@
 | * | 과제 | [과제설명서](https://github.com/sejongresearch/2024.MachineLearning/blob/main/HW/w1p1.md) | 2022.03.05 |  | 마감 (3/18 23시 59분) |  |
 | 1 | 인공지능 개론 | - | 2024.03.07 | [Youtube](https://youtu.be/PNs8j_HTn38) |  |  |
 | 1 | 인공지능 활용 | - | 2024.03.07 | [Youtube](https://youtu.be/Y4y8xE99gH4) |  |  |
-| 2 | 데이터 이해 | [PDF]()| 2024.03.07 | [Youtube](https://youtu.be/8Slytu_QemE) |  |  |
+| 2 | 데이터 이해 | [PDF]()| 2024.03.11 | [Youtube](https://youtu.be/8Slytu_QemE) |  |  |
 
 
 
