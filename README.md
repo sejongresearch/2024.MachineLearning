@@ -23,7 +23,7 @@
 | 4-1 | KNN 개념 | [PDF](https://github.com/sejongresearch/2024.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B4%EC%A3%BC%EC%B0%A8%5D%20KNN%20%EA%B0%9C%EB%85%90.pdf) | 2024.03.26 | 비대면 이론 |  |  |
 | 4-1 | KNN 분류 이론과 실습 | [PDF](https://github.com/sejongresearch/2024.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B4%EC%A3%BC%EC%B0%A8%5D%20KNN%20%EB%B6%84%EB%A5%98%20%EC%9D%B4%EB%A1%A0%20%EB%B0%8F%20%EC%8B%A4%EC%8A%B5.pdf) | 2024.03.26 | 비대면 이론 |  |  |
 | 4-1 | KNN 회귀 이론과 실습 | [PDF](https://github.com/sejongresearch/2024.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B4%EC%A3%BC%EC%B0%A8%5D%20KNN%20%ED%9A%8C%EA%B7%80%20%EC%9D%B4%EB%A1%A0%20%EB%B0%8F%20%EC%8B%A4%EC%8A%B5.pdf) | 2024.03.26 | 비대면 이론 |  |  |
-| 4-2 | KNN 실습 |  | 2024.03.28 |  대면 실습 |  |  |
+| 4-2 | KNN 실습 | [과제 설명서](https://github.com/sejongresearch/2024.MachineLearning/blob/main/HW/4%EC%A3%BC%EC%B0%A8/Readme.md) | 2024.03.28 |  대면 실습 |  |  |
 | 5-1 | 다중선형회귀 이론  |  | 2024.04.02 | 비대면 이론 |  |  |
 | 5-1 | 로지스틱회귀 이론  |  | 2024.04.02 | 비대면 이론 |  |  |
 | 5-2 | 로지스틱회귀 실습 |  | 2024.04.04 |  대면 실습 |  |  |
