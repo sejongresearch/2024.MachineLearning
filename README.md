@@ -31,7 +31,7 @@
 | 6-2 | 판별분석 실습 | [PDF](https://github.com/sejongresearch/2024.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B6%EC%A3%BC%EC%B0%A8%5D%20%ED%8C%90%EB%B3%84%EB%B6%84%EC%84%9D%20%EC%8B%A4%EC%8A%B5.pdf), [코드](https://www.kaggle.com/code/yukyungchoi/2022-ml-w6), [과제 설명서](https://github.com/sejongresearch/2024.MachineLearning/tree/main/HW/6%EC%A3%BC%EC%B0%A8) | 2024.04.11 |  대면 실습 | [과제1](https://www.kaggle.com/t/f1aadcf18148472ab48468bd1381a8de) <br> [과제2](https://www.kaggle.com/t/16f8702bc1d84aed9eba8af1318e574a) |마감 4/17 |
 | 7 | 중간고사  |  | 2024.04.16 | 이론/실습 시험 |  |  |
 | 8-1 | 중간고사 해설영상  |  | 2024.04.23 | 비대면 이론 |  |  |
-| 8-2 | 중간고사 다시풀기 |  | 2024.04.25 |  대면 실습 |  |  |
+| 8-2 | 중간고사 다시풀기 |  | 2024.04.25 |  대면 실습 | [과제1](https://www.kaggle.com/competitions/2024-ml-midterm-p4-re) | 마감 5/2 |
 | 9-1 | 데이터 전처리 이론  |  | 2024.04.30 | 비대면 이론 |  |  |
 | 9-2 | 데이터 전처리 실습 |  | 2024.05.02 |  대면 실습 |  |  |
 
