@@ -32,7 +32,7 @@
 | 7 | 중간고사  |  | 2024.04.16 | 이론/실습 시험 |  |  |
 | 8-1 | 중간고사 해설영상  |  | 2024.04.23 | 비대면 이론 |  |  |
 | 8-2 | 중간고사 다시풀기 |  | 2024.04.25 |  대면 실습 | [과제1](https://www.kaggle.com/competitions/2024-ml-midterm-p1-re) <br> [과제2](https://www.kaggle.com/competitions/2024-ml-midterm-p2-re) <br> [과제3](https://www.kaggle.com/competitions/2024-ml-midterm-p3-re) <br> [과제4](https://www.kaggle.com/competitions/2024-ml-midterm-p4-re) <br> [과제5](https://www.kaggle.com/competitions/2024-ml-midterm-p5-re)| 마감 5/1 |
-| 9-1 | 데이터 전처리 이론  |  | 2024.04.30 | 비대면 이론 |  |  |
+| 9-1 | 데이터 전처리 이론  | [PDF](https://github.com/sejongresearch/2024.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B9%EC%A3%BC%EC%B0%A8%5D%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%84%EC%B2%98%EB%A6%AC%20%EC%9D%B4%EB%A1%A0.pdf) [코드](https://github.com/sejongresearch/2024.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B9%EC%A3%BC%EC%B0%A8%5D%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%84%EC%B2%98%EB%A6%AC%20%EC%9D%B4%EB%A1%A0.ipynb) | 2024.04.30 | 비대면 이론 |  |  |
 | 9-2 | 데이터 전처리 실습 |  | 2024.05.02 |  대면 실습 |  |  |
 
 
