@@ -34,6 +34,21 @@
 | 8-2 | 중간고사 다시풀기 |  | 2024.04.25 |  대면 실습 | [과제1](https://www.kaggle.com/competitions/2024-ml-midterm-p1-re) <br> [과제2](https://www.kaggle.com/competitions/2024-ml-midterm-p2-re) <br> [과제3](https://www.kaggle.com/competitions/2024-ml-midterm-p3-re) <br> [과제4](https://www.kaggle.com/competitions/2024-ml-midterm-p4-re) <br> [과제5](https://www.kaggle.com/competitions/2024-ml-midterm-p5-re)| 마감 5/1 |
 | 9-1 | 데이터 전처리 이론  | [PDF](https://github.com/sejongresearch/2024.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B9%EC%A3%BC%EC%B0%A8%5D%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%84%EC%B2%98%EB%A6%AC%20%EC%9D%B4%EB%A1%A0.pdf), [코드](https://github.com/sejongresearch/2024.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B9%EC%A3%BC%EC%B0%A8%5D%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%84%EC%B2%98%EB%A6%AC%20%EC%9D%B4%EB%A1%A0.ipynb) | 2024.04.30 | 비대면 이론 |  |  |
 | 9-2 | 데이터 전처리 실습 | [PDF](https://github.com/sejongresearch/2024.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B9%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8.pdf) | 2024.05.02 |  대면 실습 | [과제1](https://www.kaggle.com/competitions/2024-ml-w9p1/overview) <br> [과제2](https://www.kaggle.com/competitions/2024-ml-w9p2/overview) | 마감 5/8 |
+| 10-1 | 의사결정나무 |  | 2024.05.07 |  비대면 이론 |  |  |
+| 10-2 | 의사결정나무 |  | 2024.05.09 |  대면 실습 |  |  |
+| ** | 텀프로젝트 |  | 2024.05.09 |  비대면 이론 |  |  |
+| 11-1 | SVM |  | 2024.05.14 |  비대면 이론 |  |  |
+| 11-2 | SVM |  | 2024.05.16 |  대면 실습 |  |  |
+| 12-1 | 앙상블 |  | 2024.05.21 |  비대면 이론 |  |  |
+| 12-2 | 앙상블 |  | 2024.05.23 |  대면 실습 |  |  |
+| 13-1 | 군집화 |  | 2024.05.28 |  비대면 이론 |  |  |
+| 13-2 | 군집화 |  | 2024.05.30 |  대면 실습 |  |  |
+| 14-1 | 차원축소 |  | 2024.06.04 |  비대면 이론 |  |  |
+| 14-2 | 차원축소 |  | 2024.06.06 |  대면 실습 |  |  |
+| 15-1 | 교차검증 |  | 2024.06.11 |  비대면 이론 |  |  |
+| 15-2 | 교차검증 |  | 2024.06.13 |  대면 실습 |  |  |
+| 16 | 기말고사 |  |  |  |  |  |
+
 
 
 
