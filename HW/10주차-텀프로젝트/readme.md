@@ -11,7 +11,7 @@
 ### 프로젝트 방식
 - 제공된 매뉴얼을 기반으로 다양한 문제 해결
 - 코드는 반드시 prviate 방식으로 모든 조교에게 공유: yukyungchoi / sjkimhyunwoo / heojaeyeon / sejong_juyeonkim
-- 코드에는 반드시 나의 코드를 설명하는 주석이 포함되어야 함
+- 코드에는 반드시 나의 코드를 설명하는 주석이 포함되어야 함 (직접 작성한 Empty Module의 코드에 대해서만 주석을 달면 됨)
 
 ### 프로젝트 문제
 #### Feature Engineering 
