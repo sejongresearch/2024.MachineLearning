@@ -36,7 +36,7 @@
    - Algorithm Implementation
       - 문제마다 ipynb 파일 제출 (주석 상세하게 적어야 함)
       - 문제마다 제공된 보고서 제출
-      - 
+    
 ## 배점 방식 (총 20점 만점)
 - Feature Engineering 
     - 문제마다 5점 (총 10점)
