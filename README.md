@@ -38,7 +38,7 @@
 | 10-2 | 의사결정나무 |  | 2024.05.09 |  대면 실습 | [과제1](https://www.kaggle.com/competitions/2024-ml-w10p1) <br> [과제2](https://www.kaggle.com/competitions/2024-ml-w10p2) | 마감 5/15 |
 | 11-1 | SVM | [이론 PDF](https://github.com/sejongresearch/2024.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B11%EC%A3%BC%EC%B0%A8%5D%20SVM_%EC%9D%B4%EB%A1%A0.pdf), [실습 PDF](https://github.com/sejongresearch/2024.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B11%EC%A3%BC%EC%B0%A8%5D%20SVM_%EC%8B%A4%EC%8A%B5.pdf) | 2024.05.14 |  비대면 이론 |  |  |
 | 11-2 | SVM |  | 2024.05.16 |  대면 실습 |  |  |
-| ** | 텀프로젝트 |  | 2024.05.16 |  |  |  |
+| ** | 텀프로젝트 | [과제 설명서](https://github.com/sejongresearch/2024.MachineLearning/tree/main/HW/10%EC%A3%BC%EC%B0%A8-%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) | 2024.05.16 |  |  |  |
 | 12-1 | 앙상블 |  | 2024.05.21 |  비대면 이론 |  |  |
 | 12-2 | 앙상블 |  | 2024.05.23 |  대면 실습 |  |  |
 | 13-1 | 군집화 |  | 2024.05.28 |  비대면 이론 |  |  |
