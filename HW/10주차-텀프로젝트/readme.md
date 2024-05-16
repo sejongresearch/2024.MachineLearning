@@ -24,8 +24,8 @@
     - [P3] [3D 영상 데이터]    [3D 데이터를 활용한 물체 분류](https://www.kaggle.com/competitions/2024-ml-project-3d)
 - 주의사항: **스켈레톤코드에서 제공하는 분류기는 변경하지 않습니다.** <br>(하이퍼파라미터는 변경 가능)
 #### Algorithm Implementation
-- [선형모델] [경사하강법 구현](https://github.com/sejongresearch/2024.MachineLearning/blob/main/HW/10%EC%A3%BC%EC%B0%A8-%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%5BTP1%5D%5BLinear_Models%5DSkeleton.ipynb)
-- [앙상블] [의사결정나무 구현](https://github.com/sejongresearch/2024.MachineLearning/blob/main/HW/10%EC%A3%BC%EC%B0%A8-%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%5BTP2%5D%5BEnsemble%5DSkeleton.ipynb)
+- [P1] [선형모델] [경사하강법 구현](https://github.com/sejongresearch/2024.MachineLearning/blob/main/HW/10%EC%A3%BC%EC%B0%A8-%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%5BTP1%5D%5BLinear_Models%5DSkeleton.ipynb)
+- [P2] [앙상블] [의사결정나무 구현](https://github.com/sejongresearch/2024.MachineLearning/blob/main/HW/10%EC%A3%BC%EC%B0%A8-%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%5BTP2%5D%5BEnsemble%5DSkeleton.ipynb)
  
 ## 프로젝트 마감
 - 리더보드 마감: 6월 8일 (토) 오후 11시 59분 
