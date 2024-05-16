@@ -16,12 +16,12 @@
 ### 프로젝트 문제
 #### Feature Engineering 
 - 음성/텍스트 문제 중 하나 선택
-    - [P1] [1D 텍스트 데이터]  [한국어 영화 리뷰 분류하기](https://www.kaggle.com/competitions/2024-ml-project2)
-    - [P4] [1D 음성 데이터]    [음악 장르 분류](https://www.kaggle.com/competitions/2024-ml-project-korean) 
+    - [P1] [1D 텍스트 데이터]  [한국어 영화 리뷰 분류하기](https://www.kaggle.com/competitions/2024-ml-project-korean)
+    - [P4] [1D 음성 데이터]    [음악 장르 분류](https://www.kaggle.com/competitions/2024-ml-project4) 
 
 - 2D/3D 문제 중 하나 선택
-    - [P2] [2D 영상 데이터]    [2D 이미지 데이터를 활용한 이미지 분류](https://www.kaggle.com/competitions/2024-ml-project-3d)
-    - [P3] [3D 영상 데이터]    [3D 데이터를 활용한 물체 분류](https://www.kaggle.com/competitions/2024-ml-project4)
+    - [P2] [2D 영상 데이터]    [2D 이미지 데이터를 활용한 이미지 분류](https://www.kaggle.com/competitions/2024-ml-project2)
+    - [P3] [3D 영상 데이터]    [3D 데이터를 활용한 물체 분류](https://www.kaggle.com/competitions/2024-ml-project-3d)
 - 주의사항: **스켈레톤코드에서 제공하는 분류기는 변경하지 않습니다.** <br>(하이퍼파라미터는 변경 가능)
 #### Algorithm Implementation
 - [선형모델] [경사하강법 구현](https://github.com/sejongresearch/2024.MachineLearning/blob/main/HW/10%EC%A3%BC%EC%B0%A8-%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%5BTP1%5D%5BLinear_Models%5DSkeleton.ipynb)
