@@ -40,7 +40,7 @@
 | 11-2 | SVM |  | 2024.05.16 |  대면 실습 |  |  |
 | ** | 텀프로젝트 | [과제 설명서](https://github.com/sejongresearch/2024.MachineLearning/tree/main/HW/10%EC%A3%BC%EC%B0%A8-%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) | 2024.05.16 |  |  |  |
 | 12-1 | 앙상블 | [이론 PDF](https://github.com/sejongresearch/2024.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B12%EC%A3%BC%EC%B0%A8%5D%EC%95%99%EC%83%81%EB%B8%94_%EC%9D%B4%EB%A1%A0.pdf)<br>[실습 PDF](https://github.com/sejongresearch/2024.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B12%EC%A3%BC%EC%B0%A8%5D%EC%95%99%EC%83%81%EB%B8%94_%EC%8B%A4%EC%8A%B5.pdf) | 2024.05.21 |  비대면 이론 |  |  |
-| 12-2 | 앙상블 |  | 2024.05.23 |  대면 실습 |  |  |
+| 12-2 | 앙상블 |  | 2024.05.23 |  대면 실습 | [과제1](https://www.kaggle.com/competitions/2024-ml-w12p1) | 마감 5/29 |
 | 13-1 | 군집화 |  | 2024.05.28 |  비대면 이론 |  |  |
 | 13-2 | 군집화 |  | 2024.05.30 |  대면 실습 |  |  |
 | 14-1 | 차원축소 |  | 2024.06.04 |  비대면 이론 |  |  |
