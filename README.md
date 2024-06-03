@@ -43,7 +43,7 @@
 | 12-2 | 앙상블 |  | 2024.05.23 |  대면 실습 | [과제1](https://www.kaggle.com/competitions/2024-ml-w12p1) | 마감 5/29 |
 | 13-1 | 군집화 | [이론 PDF](https://github.com/sejongresearch/2024.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B13%EC%A3%BC%EC%B0%A8%5D%EA%B5%B0%EC%A7%91%ED%99%94_%EC%9D%B4%EB%A1%A0.pdf) <br> [실습 PDF](https://github.com/sejongresearch/2024.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B13%EC%A3%BC%EC%B0%A8%5D%EA%B5%B0%EC%A7%91%ED%99%94_%EC%8B%A4%EC%8A%B5.pdf) | 2024.05.28 |  비대면 이론 |  |  |
 | 13-2 | 군집화 |  | 2024.05.30 |  대면 실습 |  |  |
-| 14-1 | 차원축소 |  | 2024.06.04 |  비대면 이론 |  |  |
+| 14-1 | 차원축소 | [이론 PDF](https://github.com/sejongresearch/2024.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B14%EC%A3%BC%EC%B0%A8%5D%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C_%EC%9D%B4%EB%A1%A0.pdf) <br> [실습 PDF](https://github.com/sejongresearch/2024.MachineLearning/blob/main/LectureNote/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B14%EC%A3%BC%EC%B0%A8%5D%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C_%EC%8B%A4%EC%8A%B5.pdf) | 2024.06.04 |  비대면 이론 |  |  |
 | 14-2 | 차원축소 |  | 2024.06.06=>04 대체 |  대면 실습 |  |  |
 | 15-1 | 기말고사 |  | 2024.06.11 |  |  |  |
 | 15-2 | 교차검증 |  | 2024.06.13 |  비대면 이론 |  |  |
